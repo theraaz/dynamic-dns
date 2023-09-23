@@ -1,3 +1,7 @@
+# Introduction
+This python script can be used instead to run web projects locally and attach them to a domain without using any 3rd party DNS services or static IP
+To have this script working, make sure you have your domain configured on Cloudflare and the `.env` values are generated.
+
 # Setup
 install the dependencies
 ```
